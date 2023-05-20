@@ -59,7 +59,7 @@
         "fallout": {
           "css": [
             "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
-            "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal.css?sha=0b3d14ad638f201dd8b8705eed6c6824848d887d",
+            "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal.css?sha=6bee88c5001b1bf2e7554d92b3f5be789d699e81",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=670b921a85dfdfd942199c1988995f2c9a651d9f",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal2.css?sha=3c8f53f270a9fb66b9163277411a8b9a0c614d5e",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/custom.css?sha=57b9a89b5fbfa4f1c72d36d36a5863b7d755c8df",
@@ -422,7 +422,7 @@
           "fallout": {
             "css": [
               "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1",
-              "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal.css?sha=0b3d14ad638f201dd8b8705eed6c6824848d887d",
+              "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal.css?sha=6bee88c5001b1bf2e7554d92b3f5be789d699e81",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=670b921a85dfdfd942199c1988995f2c9a651d9f",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/terminal2.css?sha=3c8f53f270a9fb66b9163277411a8b9a0c614d5e",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/fallout/custom.css?sha=57b9a89b5fbfa4f1c72d36d36a5863b7d755c8df",
