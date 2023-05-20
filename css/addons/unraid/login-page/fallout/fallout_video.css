@@ -25,6 +25,14 @@
     https://www.colourlovers.com/palette/3428762/Fallout?widths=1
     */
 }
+@media (min-width: 501px) {
+    body {
+        background: url(/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg) center center/cover no-repeat fixed !important;
+    }
+    :root {
+        --div-background-color-15: transparent; 
+    }
+}
 @media (max-width: 500px) {
     body {
         background: url(/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal.jpg) center center/cover no-repeat fixed !important;
