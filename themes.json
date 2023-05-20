@@ -69,7 +69,7 @@
         },
         "retro-terminal": {
           "css": [
-            "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
+            "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=b6edfd2a33f3a7b968f1c478c5f72b1249d6069b",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=abefb8d80528898812c3c05fa0b280b8b19d7820",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
             "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
@@ -432,7 +432,7 @@
           },
           "retro-terminal": {
             "css": [
-              "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48",
+              "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=b6edfd2a33f3a7b968f1c478c5f72b1249d6069b",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=abefb8d80528898812c3c05fa0b280b8b19d7820",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
               "https://rayderr.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
